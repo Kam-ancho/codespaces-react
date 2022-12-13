@@ -1,9 +1,11 @@
 import './App.css';
 import Hello from './Components/Hello'
+import Nav from './Components/Nav';
 
 function App() {
   return (
     <div className="App">
+      <Nav/>
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
