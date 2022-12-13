@@ -14,7 +14,9 @@ function App() {
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
         </p>
-          <Hello/>
+    
+        <Hello/>
+        
         <p>
           <a
             className="App-link"
@@ -25,7 +27,7 @@ function App() {
             Learn React
           </a>
         </p>
-              </header>
+        </header>
     </div>
   );
 }
