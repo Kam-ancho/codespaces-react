@@ -1,4 +1,5 @@
 import './App.css';
+import Hello from './Components/Hello'
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           </a>
         </p>
       </header>
+      <Hello/>
     </div>
   );
 }
